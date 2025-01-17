@@ -1,11 +1,12 @@
-import React, { useState } from 'react';
+import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import SideBar from './components/SideBar';
 import Content from './components/Content';
+import useDarkMode from './useDarkMode';
 
 function App() {
   // Two states are created and initialized to false
-  const [isNightMode, setIsNightMode] = useState(false);
+  const [isNightMode, setIsNightMode] = useDarkMode();
 
   // Function to toggle the mode
   const toggleMode = () => {
