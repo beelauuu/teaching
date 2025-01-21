@@ -31,7 +31,7 @@ function SideBar({ isNightMode, toggleMode }) {
         {/* TypingEffect for my name */}
         <h3><TypingEffect text="Brian Lau"/></h3>
         {/* Misc. information */}
-        <h6 className="mb-1">CMSC132 Lead TA (Spring 2025)</h6>
+        <h6 className="mb-1">CMSC132 Discussion TA (Spring 2025)</h6>
         <p className="mb-1">blau1[at]umd[dot]edu</p>
         <a href="https://www.cs.umd.edu/class/spring2025/cmsc132/">
           Class Website
