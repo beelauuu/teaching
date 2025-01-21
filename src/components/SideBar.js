@@ -41,8 +41,8 @@ function SideBar({ isNightMode, toggleMode }) {
         <br />
         <a href="https://archive.beelau.dev">Old Slides</a>
         <p className="mb-0">
-          <b className="bold-text">Discussion:</b> T,Th 12:30-1:20pm @{" "}
-          <b className="bold-text">CSI 2118</b>
+          <b className="bold-text">Discussion:</b> T,Th 1:00 - 1:50 PM @{" "}
+          <b className="bold-text">CSI 1122</b>
         </p>
         <p>
           <b className="bold-text">OH:</b> Th @{" "}
