@@ -33,7 +33,7 @@ function SideBar({ isNightMode, toggleMode }) {
         {/* Misc. information */}
         <h6 className="mb-1">CMSC132 Discussion TA (Spring 2025)</h6>
         <p className="mb-1">blau1[at]umd[dot]edu</p>
-        <a href="https://www.cs.umd.edu/class/spring2025/cmsc132/">
+        <a href="https://www.cs.umd.edu/class/spring2025/cmsc132-010X-020X/index.shtml">
           Class Website
         </a>
         <br />
