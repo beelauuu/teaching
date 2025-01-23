@@ -44,10 +44,10 @@ function SideBar({ isNightMode, toggleMode }) {
           <b className="bold-text">Discussion:</b> T,Th 1:00 - 1:50 PM @{" "}
           <b className="bold-text">CSI 1122</b>
         </p>
-        <p>
+        {/* <p>
           <b className="bold-text">OH:</b> Th @{" "}
           <b className="bold-text">10 am</b>
-        </p>
+        </p> */}
         {/* Toggle for the night mode */}
         <label className="toggle-switch">
           {/* Basically just a glorified checkbox, on change toggle the box*/}
