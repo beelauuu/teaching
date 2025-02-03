@@ -18,11 +18,11 @@ function Content({ isNightMode }) {
       title: "Discussion 2", 
       slidesUrl: "https://beelauuu.github.io/slides/docs/12925" 
     },
-    // {
-    //   title: "Discussion 3",
-    //   slidesUrl: "https://beelauuu.github.io/slides/docs/20325",
-    //   codeUrl: "https://github.com/beelauuu/TASite/raw/main/public/discussion/2025/DiscussionThree.zip"
-    // },
+    {
+      title: "Discussion 3",
+      slidesUrl: "https://beelauuu.github.io/slides/docs/20325",
+      codeUrl: "https://github.com/beelauuu/TASite/raw/main/public/discussion/2025/DiscussionThree.zip"
+    },
     // {
     //   title: "Discussion 4",
     //   slidesUrl: "https://beelauuu.github.io/slides/docs/20525",
