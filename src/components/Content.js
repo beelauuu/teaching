@@ -31,10 +31,11 @@ function Content({ isNightMode }) {
       title: "Discussion 5",
       slidesUrl: "https://beelauuu.github.io/slides/docs/21025",
     },
-    {
-      title: "Discussion 6",
-      slidesUrl: "https://beelauuu.github.io/slides/docs/21225",
-    }
+    // {
+    //   title: "Discussion 6",
+    //   slidesUrl: "https://beelauuu.github.io/slides/docs/21225",
+    //   codeUrl: "https://github.com/beelauuu/TASite/raw/main/public/discussion/2025/DiscussionSix.zip"
+    // }
   ];
 
   return (
