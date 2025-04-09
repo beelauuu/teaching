@@ -78,10 +78,10 @@ function Content({ isNightMode }) {
       slidesUrl: "https://beelauuu.github.io/slides/docs/40725",
       codeUrl: "https://github.com/beelauuu/TASite/raw/main/public/discussion/2025/DiscussionSixteen.zip"
     },
-    // {
-    //   title: "Discussion 17",
-    //   slidesUrl: "https://beelauuu.github.io/slides/docs/40925",
-    // },
+    {
+      title: "Discussion 17",
+      slidesUrl: "https://beelauuu.github.io/slides/docs/40925",
+    },
   ];
 
   return (
