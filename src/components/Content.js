@@ -101,6 +101,10 @@ function Content({ isNightMode }) {
       slidesUrl: "https://beelauuu.github.io/slides/docs/42325",
       codeUrl: "https://github.com/beelauuu/TASite/raw/main/public/discussion/2025/DiscussionTwentyOne.zip"
     },
+    {
+      title: "Discussion 22",
+      slidesUrl: "https://beelauuu.github.io/slides/docs/42825",
+    },
   ];
 
   return (
