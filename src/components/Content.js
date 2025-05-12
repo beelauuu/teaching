@@ -108,6 +108,10 @@ function Content({ isNightMode }) {
     {
       title: "Discussion 23",
       slidesUrl: "https://beelauuu.github.io/slides/docs/50525",
+    },
+    {
+      title: "Discussion 24",
+      slidesUrl: "https://beelauuu.github.io/slides/docs/51225",
     }
   ];
 
