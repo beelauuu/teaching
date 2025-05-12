@@ -112,6 +112,7 @@ function Content({ isNightMode }) {
     {
       title: "Discussion 24",
       slidesUrl: "https://beelauuu.github.io/slides/docs/51225",
+      codeUrl: "https://github.com/beelauuu/TASite/raw/main/public/discussion/2025/DiscussionTwentyFour.zip"
     }
   ];
 
